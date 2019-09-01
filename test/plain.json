@@ -1,0 +1,12 @@
+{
+  "key": "val",
+  "1": 1,
+  "neg": -1,
+  "float": 0.1345,
+  "neg_float": -0.12345,
+  "true": true,
+  "false": false,
+  "null": null,
+  "empty": "",
+  "array": []
+}
